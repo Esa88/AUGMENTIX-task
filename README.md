@@ -12,4 +12,5 @@ Here is the screenshot of the project.
  </ol>
 
 
- #Deploy Link  https://github.com/Esa88/AUGMENTIX-task.git
+ #Deploy Link https://todo-project-omega-seven.vercel.app/
+   #Git hub LINK https://github.com/Esa88/AUGMENTIX-task.git
